@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-02T11:23:06.419Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="UkOsp3sfCbMhrMIU_G0w" version="24.0.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-02T11:24:39.829Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="9zlrR32QdX_mojz-_sh9" version="24.0.0" type="github" pages="3">
   <diagram name="BPMN" id="xqtU39qztXYnOmMLmJzM">
     <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -80,7 +80,7 @@
         <mxCell id="uyZkrVYgpmPIM0gC5wzs-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uyZkrVYgpmPIM0gC5wzs-1" target="uyZkrVYgpmPIM0gC5wzs-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uyZkrVYgpmPIM0gC5wzs-1" value="Rede social uninter" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="uyZkrVYgpmPIM0gC5wzs-1" value="Rede social uninter" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="360" y="250" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uyZkrVYgpmPIM0gC5wzs-2" value="Vagas" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
@@ -121,6 +121,14 @@
         <mxCell id="uyZkrVYgpmPIM0gC5wzs-14" value="Info de curso e treinamento" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="510" y="260" width="170" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="iSlTIPnUhJtFJO1jNk5e" name="DFD-vagas">
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
