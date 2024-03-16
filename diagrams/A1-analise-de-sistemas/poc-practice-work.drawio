@@ -1,9 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2024-03-16T17:31:17.391Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.1" etag="b3Ccxvye5qZy52-chwco" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-16T20:21:27.772Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="g6ExTzopszg1rvnvN_sj" version="24.0.1" type="github">
   <diagram name="Page-1" id="Td7Ui1iyWaGwGqUDhjVY">
-    <mxGraphModel>
+    <mxGraphModel dx="1877" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="I83nIgbYgrfEnUOhA450-2" value="Figura 1: Diagrama de caso de uso com base em 12 requisitos, 6 funcionais e 6 não funcionais,&lt;div&gt;do Sistema de controle de acesso, automação de luzes e ar condicionado da empresa BergaWorks&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="500" width="550" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I83nIgbYgrfEnUOhA450-15" value="Sistema BergaWorks - RU&amp;nbsp;4596056" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="40" width="550" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="I83nIgbYgrfEnUOhA450-13" value="&lt;h4 style=&quot;box-sizing: border-box; position: relative; margin-top: 1em; margin-bottom: 16px; line-height: 1.4; font-size: 11px; font-family: Helvetica, Arial, freesans, sans-serif;&quot; id=&quot;estudo-de-caso-1-controlar-acesso-por-voz-e--garantir-a-segurança&quot;&gt;Acessar a entrada do escritório e a própria sala&lt;/h4&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fillStyle=auto;labelBackgroundColor=none;fontColor=default;align=center;fontStyle=0;verticalAlign=middle;perimeterSpacing=0;fontSize=11;" vertex="1" parent="I83nIgbYgrfEnUOhA450-15">
+          <mxGeometry x="25" y="160" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I83nIgbYgrfEnUOhA450-10" value="&lt;h4 style=&quot;box-sizing: border-box; position: relative; margin-top: 1em; margin-bottom: 16px; line-height: 1.4; font-size: 11px; font-family: Helvetica, Arial, freesans, sans-serif;&quot; id=&quot;estudo-de-caso-1-controlar-acesso-por-voz-e--garantir-a-segurança&quot;&gt;Monitorar presença e identidade por imagens&lt;/h4&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fillStyle=auto;labelBackgroundColor=none;fontColor=default;align=center;fontStyle=0;verticalAlign=middle;perimeterSpacing=0;fontSize=11;" vertex="1" parent="I83nIgbYgrfEnUOhA450-15">
+          <mxGeometry x="360" y="50" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="I83nIgbYgrfEnUOhA450-11" value="&lt;h4 style=&quot;box-sizing: border-box; position: relative; margin-top: 1em; margin-bottom: 16px; line-height: 1.4; font-size: 11px; font-family: Helvetica, Arial, freesans, sans-serif;&quot; id=&quot;estudo-de-caso-1-controlar-acesso-por-voz-e--garantir-a-segurança&quot;&gt;Monitorar e controlar temperatura&lt;/h4&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fillStyle=auto;labelBackgroundColor=none;fontColor=default;align=center;fontStyle=0;verticalAlign=middle;perimeterSpacing=0;fontSize=11;" vertex="1" parent="I83nIgbYgrfEnUOhA450-15">
+          <mxGeometry x="360" y="175" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I83nIgbYgrfEnUOhA450-12" value="&lt;h4 style=&quot;box-sizing: border-box; position: relative; margin-top: 1em; margin-bottom: 16px; line-height: 1.4; font-size: 11px; font-family: Helvetica, Arial, freesans, sans-serif;&quot; id=&quot;estudo-de-caso-1-controlar-acesso-por-voz-e--garantir-a-segurança&quot;&gt;Controlar iluminação elétrica por comando de voz&lt;/h4&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fillStyle=auto;labelBackgroundColor=none;fontColor=default;align=center;fontStyle=0;verticalAlign=middle;perimeterSpacing=0;fontSize=11;" vertex="1" parent="I83nIgbYgrfEnUOhA450-15">
+          <mxGeometry x="25" y="290" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="I83nIgbYgrfEnUOhA450-5" value="&lt;h4 style=&quot;box-sizing: border-box; position: relative; margin-top: 1em; margin-bottom: 16px; line-height: 1.4; font-size: 11px; font-family: Helvetica, Arial, freesans, sans-serif;&quot; id=&quot;estudo-de-caso-1-controlar-acesso-por-voz-e--garantir-a-segurança&quot;&gt;Acessar todas as salas&lt;/h4&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fillStyle=auto;labelBackgroundColor=none;fontColor=default;align=center;fontStyle=0;verticalAlign=middle;perimeterSpacing=0;fontSize=11;" vertex="1" parent="I83nIgbYgrfEnUOhA450-15">
+          <mxGeometry x="20" y="30" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="I83nIgbYgrfEnUOhA450-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="110" y="230" width="90" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="I83nIgbYgrfEnUOhA450-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;labelBackgroundColor=none;labelBorderColor=none;html=1;noLabel=1;" vertex="1" parent="I83nIgbYgrfEnUOhA450-16">
+          <mxGeometry x="30" width="30" height="66.31578947368422" as="geometry" />
+        </mxCell>
+        <mxCell id="I83nIgbYgrfEnUOhA450-6" value="Funcionário&lt;div&gt;Simples&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="I83nIgbYgrfEnUOhA450-16">
+          <mxGeometry y="60.789473684210535" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I83nIgbYgrfEnUOhA450-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-10" y="90" width="90" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="I83nIgbYgrfEnUOhA450-24" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;labelBackgroundColor=none;labelBorderColor=none;html=1;noLabel=1;" vertex="1" parent="I83nIgbYgrfEnUOhA450-23">
+          <mxGeometry x="30" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I83nIgbYgrfEnUOhA450-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="I83nIgbYgrfEnUOhA450-23" source="I83nIgbYgrfEnUOhA450-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I83nIgbYgrfEnUOhA450-25" value="CEO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="I83nIgbYgrfEnUOhA450-23">
+          <mxGeometry x="20" y="60" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I83nIgbYgrfEnUOhA450-27" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-10" y="230" width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="I83nIgbYgrfEnUOhA450-7" value="Funcionário&lt;div&gt;administrador&lt;div&gt;(RH/Gestora)&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="I83nIgbYgrfEnUOhA450-27">
+          <mxGeometry y="60" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I83nIgbYgrfEnUOhA450-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="I83nIgbYgrfEnUOhA450-27" source="I83nIgbYgrfEnUOhA450-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I83nIgbYgrfEnUOhA450-14" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;labelBackgroundColor=none;labelBorderColor=none;html=1;noLabel=1;" vertex="1" parent="I83nIgbYgrfEnUOhA450-27">
+          <mxGeometry x="36.88" width="33.13" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
